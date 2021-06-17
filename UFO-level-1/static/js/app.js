@@ -17,3 +17,7 @@ tableData.forEach(function(ufo) {
       cell.text(value);
     });
   });
+
+
+//filter button
+var button = d3.select("#filter-btn");
